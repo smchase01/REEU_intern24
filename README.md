@@ -1,2 +1,3 @@
-# REEU_intern23
+# REEU: Wood Microbiome on Disease vs Healthy Poplar
+
 REEU Summer Intership Material 
