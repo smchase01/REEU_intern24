@@ -28,8 +28,8 @@ If you want to install new software you need to type `install.packages("package_
 EXAMPLE:  
 ```R
 install.packages("vegan")
-```
-> Installing package into ‘/home/microway/R/x86_64-pc-linux-gnu-library/4.2’
+
+Installing package into ‘/home/microway/R/x86_64-pc-linux-gnu-library/4.2’
 (as ‘lib’ is unspecified)
 trying URL 'https://cloud.r-project.org/src/contrib/vegan_2.6-4.tar.gz'
 Content type 'application/x-gzip' length 1496110 bytes (1.4 MB)
@@ -42,7 +42,7 @@ downloaded 1.4 MB
 .
 .
 .
-installing to /home/microway/R/x86_64-pc-linux-gnu-library/4.2/00LOCK-vegan/00new/vegan/libs
+installing to /home/you/R/x86_64-pc-linux-gnu-library/4.2/00LOCK-vegan/00new/vegan/libs
 ** R
 ** data
 ** inst
@@ -56,7 +56,7 @@ installing to /home/microway/R/x86_64-pc-linux-gnu-library/4.2/00LOCK-vegan/00ne
 ** testing if installed package can be loaded from final location
 ** testing if installed package keeps a record of temporary installation path
 * DONE (vegan)
-
+```
 The downloaded source packages are in
 	‘/tmp/Rtmp8SSbkP/downloaded_packages’
 
