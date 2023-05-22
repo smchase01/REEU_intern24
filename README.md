@@ -1,6 +1,6 @@
-# REEU: Wood Microbiome on Disease vs Healthy Poplar
+# REU: Wood Microbiome on Disease vs Healthy Poplar
 
-REEU Summer Intership Material 
+REU Summer Intership Material 
 
 ### Week 1:
 1. Introduction and coding exercises
