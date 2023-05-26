@@ -13,7 +13,7 @@ The terminal is a powerful tool that allows you to perform a wide range of tasks
 
     Navigation:\
     	to create directory: \
-	  `mdkr new_directory`
+	  `mkdir new_directory`
         to change directory: \
           `cd new_directory`\
 	check your directory `$PATH` with \
@@ -27,7 +27,7 @@ The terminal is a powerful tool that allows you to perform a wide range of tasks
         go to you new_directory: \
 	  `cd ________` # fill the line with the `$PATH` to your `new_directory` \ 
         create a new directory in your `new_directory`: \
- 	  `mkdir cool_project1`\
+ 	  `mkdir cool_project1` # or any new you want\
         remove a file: \
  	  `rm filetoremove.txt`\
         remove a directory: \
