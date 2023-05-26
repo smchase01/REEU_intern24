@@ -1,4 +1,4 @@
-The terminal, also known as the command-line interface (CLI), is a text-based interface in which you can interact with your computer's operating system using commands. It provides a way to execute various commands and perform tasks without relying on a graphical user interface (GUI).
+The terminal, also known as the command-line interface (CLI) or `command line`, is a text-based interface in which you can interact with your computer's operating system using commands. It provides a way to execute various commands and perform tasks without relying on a graphical user interface (GUI).
 
 The terminal is a powerful tool that allows you to perform a wide range of tasks efficiently, such as:
 
@@ -10,14 +10,23 @@ The terminal is a powerful tool that allows you to perform a wide range of tasks
 
 4. System management: You can manage system services, install and update software packages, configure system settings, and monitor system resources.
 
+
     Navigation:\
+    	to create directory: \
+	  `mdkr new_directory`
         to change directory: \
-          `cd practice_directory`\
+          `cd new_directory`\
+	check your directory `$PATH` with \
+	  `pwd` # which stands for `print working directory`\
+	go to home: \
+	   `cd` \
         list files and directories: \
           `ls Documents`\
         navigate to other directories: \
 	  `cd Documents`\
-        create a directory: \
+        go to you new_directory: \
+	  `cd ________` # fill the line with the `$PATH` to your `new_directory` \ 
+        create a new directory in your `new_directory`: \
  	  `mkdir cool_project1`\
         remove a file: \
  	  `rm filetoremove.txt`\
@@ -49,3 +58,9 @@ The terminal is a powerful tool that allows you to perform a wide range of tasks
 	  `kill 1234`\
         Background a process: \
 	  `sleep 10 & echo "hello world"`
+
+Bonus: 
+    Install `wget` using `brew install` \
+    then use this command to retrieve a command line cheatsheet
+    `wget https://github.com/ricardoi/cheatsheets/blob/master/commandsUNIX.pdf`
+    Open the `pdf`
