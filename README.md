@@ -4,10 +4,10 @@ REU Summer Intership Material
 
 ### Week 1 [3-7]:
 1. Introduction and coding exercises \
-1.1 Introduction to the terminal \
-1.2 Installing software using the terminal \
-1.3 Introduction to R: part 1 \
-1.4 Introduction to R: pat 2 \
+1.1 [Introduction to the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_terminal.md) \
+1.2 [Installing software using the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Installing_software_using_terminal.md) \
+1.3 [Introduction to R: part 1](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part1.R) \
+1.4 [Introduction to R: pat 2](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part2.R) \
 1.5 Summary of `Linux` and `R`
 ### Week 2 [10-14]:
 2. Introduction to Microbiomes \
