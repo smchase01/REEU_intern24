@@ -7,12 +7,12 @@ REU Summer Intership Material
 1.1 [Introduction to the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_terminal.md) \
 1.2 [Installing software using the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Installing_software_using_terminal.md) \
 1.3 [Introduction to R: part 1](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part1.R) \
-1.4 [Introduction to R: pat 2](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part2.R) \
-1.5 Summary of `Linux` and `R`
-2. Read Quality Control
-   2.1 Check the quality of the reads by using `fastqc`
-   2.2 Determine what are the best practices for quality of reads
-   2.3 Report the quality of the reads   
+1.4 [Introduction to R: part 2](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part2.R) \
+1.5 Summary of `Linux` and `R` \
+2. Read Quality Control \
+   2.1 Check the quality of the reads by using `fastqc` \
+   2.2 Check best practices for read quality 
+   2.3 Report the summary stas for read quality 
    
 ### Week 2 [10-14]:
 2. Introduction to Microbiomes \
