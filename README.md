@@ -9,6 +9,11 @@ REU Summer Intership Material
 1.3 [Introduction to R: part 1](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part1.R) \
 1.4 [Introduction to R: pat 2](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_R_part2.R) \
 1.5 Summary of `Linux` and `R`
+2. Read Quality Control
+   2.1 Check the quality of the reads by using `fastqc`
+   2.2 Determine what are the best practices for quality of reads
+   2.3 Report the quality of the reads   
+   
 ### Week 2 [10-14]:
 2. Introduction to Microbiomes \
 2.1 What is a microbiome and how to study a microbiome \
