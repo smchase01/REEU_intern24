@@ -11,7 +11,7 @@ REU Summer Intership Material
 1.5 Summary of `Linux` and `R` \
 2. Read Quality Control \
    2.1 Check the quality of the reads by using `fastqc` \
-   > `brew install fastq`
+   > `brew install fastq` \
    2.2 Check best practices for read quality \
    2.3 Report the summary stas for read quality 
    
