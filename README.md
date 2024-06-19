@@ -1,8 +1,8 @@
-# REU: Wood Microbiome on Disease vs Healthy Poplar
+# REU: NLR expression in tanoak infected with _Phytophthora ramorum_
 
 REU Summer Intership Material 
 
-### Week 1 [3-7]:
+### Week 1 [1-5]:
 1. Introduction and coding exercises \
 1.1 [Introduction to the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Introduction_to_terminal.md) \
 1.2 [Installing software using the terminal](https://github.com/ricardoi/REEU_intern23/blob/main/practice/Installing_software_using_terminal.md) \
