@@ -1,0 +1,10 @@
+# Day 8 - Quality control of sequencing data cont. 
+
+more qc
+remove ribosomal rna
+check for contaminants
+
+what are the top contaminants
+the way bbsketch works - we expect closely-related calls. you will see a lot of oak species pop up just because the genomes share similar regions with tanoak
+
+a fun paper
