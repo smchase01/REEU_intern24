@@ -11,3 +11,5 @@ run fastqc/multiqc
 run fastp
 
 run fastqc/multiqc again
+
+NLR paper
