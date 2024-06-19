@@ -12,4 +12,10 @@ run fastp
 
 run fastqc/multiqc again
 
+check for contaminants
+
+what are the top contaminants
+the way bbsketch works - we expect closely-related calls. you will see a lot of oak species pop up just because the genomes share similar regions with tanoak
+
+
 NLR paper
