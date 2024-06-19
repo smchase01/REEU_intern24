@@ -1,0 +1,20 @@
+command line interface
+
+basics
+
+coding languages - bash, c, tcsh
+
+navigation
+cd, ls, mkdir
+tree
+tab complete
+
+running programs
+which program for an example
+many of these programs are set as an environmental variable on our cluster, so they can be run without specifying the path to the program. but that is, in essence, what it is doing. 
+
+
+#####
+
+a sod paper
+
