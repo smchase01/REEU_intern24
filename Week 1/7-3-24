@@ -1,10 +1,11 @@
 Day 3 - building on RNAseq and command line data analysis
 
-more rnaseq basics
-condition (lab), extraction, library prep, sequencing
-
 command line review, plus for loops, executing a script
 make a for loop script
 changing permissions
+
+error messages and troubleshooting code
+
+cgrb infrastructure review 
 
 sod
