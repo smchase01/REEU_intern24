@@ -1,0 +1,16 @@
+day 4 using the command line for analysis of genetic data
+
+- overview of some common objectives and programs
+- overview of file formats
+
+have a folder with the files in it, already copied over. raw sequences.
+
+ways to look at a file from the command line - grep, cat, less, nano, head, tail
+zcat, zgrep
+pipelines |
+exercise - open a fasta file (head)
+go over fields
+
+have an example bam file there - and here they are aligned
+
+copy over ref genome? look at this
