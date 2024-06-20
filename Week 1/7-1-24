@@ -97,10 +97,16 @@ It's important to keep track of which software options you use, since updated ve
 
 ### Sudden Oak Death
 
-Changing gears now. Here is a quick intro to Sudden Oak Death. The RNAseq data we will analyze comes from tanoak (Notholithocarpus densiflorus) infected with Phytophthora ramorum, which is an oomycete. 
+Changing gears now. This is a quick intro to Sudden Oak Death. The RNAseq data we will analyze comes from tanoak (Notholithocarpus densiflorus) infected with Phytophthora ramorum, which is an oomycete. 
 
-[Here] is an overview of Phytophthoras (aka the plant destroyers). [Here] is a cool website going over morphology and other information on some important phytophthoras that infect forest trees. 
+The genus Phytophthora (aka plant destroyer) belongs to phylum Oomycota and the kingdom Chromista/Stramenopila. It is more closely related to algaes and diatoms than fungi, but through convergent evolution, has become similar to fungal plant pathogens in certain ways. For example, phytophtoras produce mycelium and spread through spores, but their cell walls are made of cellulose rather than chitin.
 
-And [here] is the Oregon Sudden Oak Death dashboard. This webpage is maintained by the interagency SOD program, including the forest service, oregon department of forestry, osu, other others. You can see a map of the epidemic, including quarantine zones, individual infected trees we've sampled from, which lineage of P. ramorum was detected, etc. When the epidemic began, eradication was the goal. You can see on the map that there is now a "generally infested area." Eradication did not work. 
+[Here](https://forestphytophthoras.org/) is a cool website going over morphology and other information on some important phytophthoras that infect forest trees. 
 
-And here are a few more SOD resources to look over. 
+And [here](https://www.arcgis.com/apps/dashboards/775c52bb94b646a1929f0b35dca4a1ad) is the Oregon Sudden Oak Death dashboard. This webpage is maintained by the interagency SOD program, including the forest service, oregon department of forestry, osu, other others. You can see a map of the epidemic, including quarantine zones, individual infected trees we've sampled from, which lineage of P. ramorum was detected, etc. When the epidemic began, eradication was the goal. You can see on the map that there is now a "generally infested area." Eradication did not work. 
+
+And here are a few more SOD resources to look over:
+
+[Sudden Oak Death Program](https://www.oregon.gov/oda/programs/PlantHealth/Pages/SODProgram.aspx#:~:text=Phytophthora%20ramorum%20is%20present%20in,area%20through%20infected%20nursery%20plants.)
+[Repeated emergence of sudden oak death in Oregon: chronology, impact, and management](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-02-22-0294-FE)
+[California oak mortality task force](https://www.suddenoakdeath.org/)
