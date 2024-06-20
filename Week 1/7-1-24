@@ -1,4 +1,4 @@
-# Day 1 - intro to unix/linux coding
+### Day 1 - intro to unix/linux coding
 
 My bioinformatics workflows usually begin on a unix/linux command line interface (CLI) and end in R studio. The CLI takes advantage of 
 OSU's computing infrastructure to handle big data processing using memory intensive programs. The final output from these programs is in 
