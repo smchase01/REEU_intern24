@@ -1,12 +1,37 @@
-# Day 2 - Background and context for SOD and RNAseq
+# Day 2 - RNAseq intro
 
-sod dashboard
-another sod paper
-rnaseq basics
-condition, extraction, library prep, sequencing, analysis 
+RNAseq, or RNA sequencing, is used to analyze gene expression in live cells. It usually involves comparing multiple conditions. In the case of our tanoak/ramorum data set, we are comparing gene expression of both ramorum and tanoak under different conditions. The overall question is - how does gene expression change during disease?
 
-applications of rnaseq
+To answer this question, we collected data (isolated and sequenced RNA) from tissues under the following conditions:
 
-basics of rnaseq analysis 
+- tanoak - control (uninfected stem tissue) and infected stem tissue at multiple time points
+- ramorum - control (mycelium grow in petri plates) and infected stem tissue at multiple time points
 
-some examples of results
+[Here](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/Intro-to-RNAseq.html) is a more detailed overview of an RNAseq workflow, from sample to sequence.
+
+As you can imagine, RNAseq produces a huge quantity of data, which we need to put into a format that we can work with and understand. The format we use for analysis is called a counts matrix. Here is a small subset of one of my counts matrices:
+
+gene.id	        214	  215	  216	  303	  304	  305
+PRNA1_000534	  0	    0	    0	    0	    0     3
+PRNA1_000535	  29	  22	  33	  107	  119	  146
+PRNA1_000536	  2	    4	    2	    23	  14	  19
+
+the rows are names of specific genes. The columns are different samples. The 200 and 300 samples correspond to two different time points. Just by quickly looking at our counts, we can see a difference in the expression of the middle gene. the other two - maybe not so much. However, this raw counts matrix is not quite ready for analysis. We would need to normalize the read counts based on the size of the sample. And, though the numbers seem different, we don't know until we run a statistical test. This matrix shows a probable difference, but it's not until we actually test the data that we know if this difference is statistically significant or biologically interesting.
+
+After running the tests, we end up with a list of genes that are significantly differentially expressed when comparing our conditions. A common respresentation of RNAseq results is called a voclano plot:
+
+
+
+
+examples of results
+learning outcomes
+
+cgrb again
+
+more sod basics
+
+
+
+
+
+
